@@ -10,7 +10,8 @@
 </p>
 
 # Laravel Boilerplate Project
-
+untuk database ada di didalam zip ini dan juga ada di github 
+Untuk Nama Databasenya : tugas18dan19
 _Laravel Boilerplate_ provides a very flexible and extensible way of building your custom Laravel applications.
 
 ## Table of Contents
